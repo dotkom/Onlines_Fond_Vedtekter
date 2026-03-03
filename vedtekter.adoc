@@ -138,7 +138,7 @@ uavhengig av beløpets størrelse.
 
 === 7.2 Godkjenning av søknader
 
-Søknader på mindre enn 100 000 kr, kan behandles av Fondstyret. En slik søknad
+Søknader på 100 000 kr eller lavere, kan behandles av Fondstyret. En slik søknad
 godkjennes av Fondstyret med alminnelig flertall. Søknader på større beløp enn dette
 skal behandles på fondets generalforsamling, eventuelt på ekstraordinær generalforsamling dersom søknadens omstendigheter krever svar før neste generalforsamling.
 
